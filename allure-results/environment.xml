@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome</value>
+    </parameter>
+    <parameter>
+        <key>Test_Environment</key>
+        <value>Test_System_101</value>
+    </parameter>
+    <parameter>
+        <key>Project_Name</key>
+        <value>Demo_101</value>
+    </parameter>
+</environment>
